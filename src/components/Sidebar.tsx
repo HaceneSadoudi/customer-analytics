@@ -6,10 +6,10 @@ function Sidebar() {
     return (
         <div className="h-full w-3/5 bg-[#EDF6F6] border-r border-[#E5EAF2]">
             <div className="w-full border-b border-[#E5EAF2] p-4 py-5 bg-white">
-                dsfsdf
+                
             </div>
             <div className="w-full border-b border-[#E5EAF2] p-4 py-5 bg-[#F8FCFC]">
-                dsfsdf
+                
             </div>
             <div className="flex flex-col w-full align-middle overflow-x-hidden h-full p-4 ">
                <button type="button" onClick={() => setShowFileUploadModal(true)} className="bg-[#E5EAF2] p-3 w-fit ">Import file</button>
